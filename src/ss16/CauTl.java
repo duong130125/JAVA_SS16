@@ -1,6 +1,6 @@
 package ss16;
 
-public class sosanh {
+public class CauTl {
     /*
   1. Vòng lặp for truyền thống
   for (int i = 0; i < list.size(); i++) {
